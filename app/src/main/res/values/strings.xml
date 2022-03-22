@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LatihanImt</string>
+    <string name="hitung_imt">HITUNG IMT</string>
+    <string name="masukan_berat_badan_kg">Masukan Berat Badan (kg)</string>
+    <string name="masukan_tinggi_badan_cm">Masukan Tinggi Badan (cm)</string>
+    <string name="hitung">HITUNG</string>
+    <string name="hasil">HASIL</string>
+</resources>
